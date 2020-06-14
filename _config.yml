@@ -11,9 +11,9 @@ title                    : "Andrew Leahey, Esq., LL.M."
 title_separator          : "-"
 name                     : &name "Andrew Leahey"
 description              : &description "Tax and technology attorney."
-url                      : https://leahey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ajleahey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leahey.github.io"
+repository               : "ajleahey.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
